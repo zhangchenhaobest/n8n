@@ -1,3 +1,29 @@
+# n8n
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+原生支持 AI 的公平代码工作流自动化平台，可视化搭建加自定义代码，400+ 集成，可自托管或云端。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 ![Banner image](https://raw.githubusercontent.com/n8n-io/n8n/master/assets/readme-banner.jpg)
 
 # n8n – The Platform for AI Agents and Workflow Automation
